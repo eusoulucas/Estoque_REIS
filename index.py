@@ -1,7 +1,7 @@
 # import the libraries
 from tkinter import *
-from tkinter import messagebox
 from tkinter import ttk
+from tkinter import messagebox
 
 import database
 
